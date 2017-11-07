@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\06.FoldAndSum\bin\Debug\06.FoldAndSum.exe.config
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\06.FoldAndSum\bin\Debug\06.FoldAndSum.exe
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\06.FoldAndSum\bin\Debug\06.FoldAndSum.pdb
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\06.FoldAndSum\obj\Debug\06.FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\06.FoldAndSum\obj\Debug\06.FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\06.FoldAndSum\obj\Debug\06.FoldAndSum.exe
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\06.FoldAndSum\obj\Debug\06.FoldAndSum.pdb

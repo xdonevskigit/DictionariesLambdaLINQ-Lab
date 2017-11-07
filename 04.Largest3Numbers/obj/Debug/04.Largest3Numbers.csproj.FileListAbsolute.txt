@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\04.Largest3Numbers\bin\Debug\04.Largest3Numbers.exe.config
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\04.Largest3Numbers\bin\Debug\04.Largest3Numbers.exe
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\04.Largest3Numbers\bin\Debug\04.Largest3Numbers.pdb
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\04.Largest3Numbers\obj\Debug\04.Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\04.Largest3Numbers\obj\Debug\04.Largest3Numbers.exe
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\04.Largest3Numbers\obj\Debug\04.Largest3Numbers.pdb

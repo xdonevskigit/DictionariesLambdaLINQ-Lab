@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\03.MinMaxSumAverage\bin\Debug\03.MinMaxSumAverage.exe.config
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\03.MinMaxSumAverage\bin\Debug\03.MinMaxSumAverage.exe
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\03.MinMaxSumAverage\bin\Debug\03.MinMaxSumAverage.pdb
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\03.MinMaxSumAverage\obj\Debug\03.MinMaxSumAverage.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\03.MinMaxSumAverage\obj\Debug\03.MinMaxSumAverage.exe
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\03.MinMaxSumAverage\obj\Debug\03.MinMaxSumAverage.pdb

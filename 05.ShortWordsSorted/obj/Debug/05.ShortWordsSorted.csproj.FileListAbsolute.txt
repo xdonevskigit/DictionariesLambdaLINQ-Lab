@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.exe.config
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.exe
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.pdb
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.exe
+C:\Users\Icaka\source\repos\Dictionaries,LambdaLINQLab\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.pdb
